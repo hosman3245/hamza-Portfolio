@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/hamzaosman/Desktop/Hamza Portfolio/app/layout\":[\"static/media/86667d917ceb322f-s.p.woff2\",\"static/media/a34f9d1faa5f3315-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
